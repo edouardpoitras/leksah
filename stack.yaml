@@ -30,7 +30,7 @@ extra-deps:
 - gi-gdkpixbuf-2.0.11
 - gi-glib-2.0.11
 - gi-gobject-2.0.11
-- gi-gtk-3.0.11
+- gi-gtk-3.0.13
 - gi-cairo-1.0.11
 - gi-gio-2.0.11
 - gi-pango-1.0.11
